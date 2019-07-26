@@ -1,0 +1,229 @@
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="csortservice.ru" resolutions="1x" timestamp="1564121214818">
+  <folder name="assets">
+    <file name="logo.jpg" crc="4052869203" seo="true" mt="1564119117000"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_______-a.css" crc="3832766856" ref="phone>consalt:phone>service:phone>repair:phone>test-training:phone>spares:phone>test-sputnik:phone>index:phone>test-come:phone>test"/>
+      <file name="consalt.css" crc="4189746905" ref="phone>consalt"/>
+      <file name="service.css" crc="4189746905" ref="phone>service"/>
+      <file name="repair.css" crc="4189746905" ref="phone>repair"/>
+      <file name="test-training.css" crc="4189746905" ref="phone>test-training"/>
+      <file name="spares.css" crc="4189746905" ref="phone>spares"/>
+      <file name="test-sputnik.css" crc="4189746905" ref="phone>test-sputnik"/>
+      <file name="index.css" crc="4189746905" ref="phone>index"/>
+      <file name="test-come.css" crc="4189746905" ref="phone>test-come"/>
+      <file name="test.css" crc="4189746905" ref="phone>test"/>
+    </folder>
+    <file name="index.html" crc="3777881860" seo="true" mt="1564120378199" redirect="true"/>
+    <file name="spares.html" crc="425721559" seo="true" mt="1564120378199" redirect="true"/>
+    <file name="repair.html" crc="312122178" seo="true" mt="1564120378199" redirect="true"/>
+    <file name="service.html" crc="129714417" seo="true" mt="1564120378199" redirect="true"/>
+    <file name="consalt.html" crc="312050860" seo="true" mt="1564120378199" redirect="true"/>
+    <file name="test.html" crc="3893167068" seo="true" mt="1564120378199" redirect="true"/>
+    <file name="test-come.html" crc="383927794" seo="true" mt="1564120378199" redirect="true"/>
+    <file name="test-sputnik.html" crc="241756070" seo="true" mt="1564120378199" redirect="true"/>
+    <file name="test-training.html" crc="168366341" seo="true" mt="1564120378199" redirect="true"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="530672873"/>
+    <file name="master_______-a.css" crc="4246413673" ref="index:test:spares:test-training:consalt:test-come:test-sputnik:repair:service:без-имени-10"/>
+    <file name="index.css" crc="4020831150" ref="index"/>
+    <file name="iefonts_index.css" crc="191612477" ref="index"/>
+    <file name="test.css" crc="327420401" ref="test"/>
+    <file name="iefonts_test.css" crc="287853662" ref="test"/>
+    <file name="spares.css" crc="3909580380" ref="spares"/>
+    <file name="iefonts_spares.css" crc="20803117" ref="spares"/>
+    <file name="test-training.css" crc="393300257" ref="test-training"/>
+    <file name="iefonts_test-training.css" crc="4110536439" ref="test-training"/>
+    <file name="consalt.css" crc="4210672958" ref="consalt"/>
+    <file name="iefonts_consalt.css" crc="207966692" ref="consalt"/>
+    <file name="test-come.css" crc="4159954958" ref="test-come"/>
+    <file name="iefonts_test-come.css" crc="177942506" ref="test-come"/>
+    <file name="test-sputnik.css" crc="154239526" ref="test-sputnik"/>
+    <file name="iefonts_test-sputnik.css" crc="503558961" ref="test-sputnik"/>
+    <file name="repair.css" crc="164528776" ref="repair"/>
+    <file name="iefonts_repair.css" crc="3817816319" ref="repair"/>
+    <file name="service.css" crc="154333360" ref="service"/>
+    <file name="iefonts_service.css" crc="3925719787" ref="service"/>
+    <file name="___-_____-10.css" crc="4091247785" ref="без-имени-10"/>
+    <file name="iefonts____-_____-10.css" crc="4141204081" ref="без-имени-10"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:spares:repair:service:test:consalt:test-come:test-sputnik:test-training:phone>index:phone>spares:phone>repair:phone>service:phone>consalt:phone>test:phone>test-come:phone>test-sputnik:phone>test-training:без-имени-10"/>
+    <file name="museutils.js" crc="46400467" ref="index:spares:repair:service:test:consalt:test-come:test-sputnik:test-training:phone>index:phone>spares:phone>repair:phone>service:phone>consalt:phone>test:phone>test-come:phone>test-sputnik:phone>test-training:без-имени-10"/>
+    <file name="whatinput.js" crc="86476730" ref="index:spares:repair:service:test:consalt:test-come:test-sputnik:test-training:phone>index:phone>spares:phone>repair:phone>service:phone>consalt:phone>test:phone>test-come:phone>test-sputnik:phone>test-training:без-имени-10"/>
+    <file name="museconfig.js" crc="436936948" ref="index:spares:repair:service:test:consalt:test-come:test-sputnik:test-training:phone>index:phone>spares:phone>repair:phone>service:phone>consalt:phone>test:phone>test-come:phone>test-sputnik:phone>test-training:без-имени-10"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="532123423" ref="index:spares:repair:service:test:consalt:test-come:test-sputnik:test-training:phone>index"/>
+    <file name="jquery.watch.js" crc="4178585335" ref="index:spares:repair:service:test:consalt:test-come:test-sputnik:test-training:phone>index:phone>spares:phone>repair:phone>service:phone>consalt:phone>test:phone>test-come:phone>test-sputnik:phone>test-training:без-имени-10"/>
+    <file name="jquery.musemenu.js" crc="3936200140" ref="index:spares:repair:service:test:consalt:test-come:test-sputnik:test-training:без-имени-10"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:spares:repair:service:test:consalt:test-come:test-sputnik:test-training:без-имени-10"/>
+    <file name="require.js" crc="85721165" ref="index:spares:repair:service:test:consalt:test-come:test-sputnik:test-training:phone>index:phone>spares:phone>repair:phone>service:phone>consalt:phone>test:phone>test-come:phone>test-sputnik:phone>test-training:без-имени-10"/>
+    <file name="webpro.js" crc="4152390327" ref="spares:repair:service:test:consalt:test-come:test-sputnik:test-training"/>
+    <file name="musewpslideshow.js" crc="380562115" ref="spares:repair:service:test:consalt:test-come:test-sputnik:test-training"/>
+    <file name="jquery.museoverlay.js" crc="3986278607" ref="spares:repair:service:test:consalt:test-come:test-sputnik:test-training"/>
+    <file name="touchswipe.js" crc="4228958816" ref="spares:repair:service:test:consalt:test-come:test-sputnik:test-training"/>
+    <file name="form_check.php" crc="4286608207" ref="spares"/>
+    <file name="form_throttle.php" crc="313199896" ref="spares"/>
+    <file name="form_process.php" crc="3855659497" ref="spares"/>
+    <file name="form-u2803.php" crc="130629058" ref="spares"/>
+    <file name="form-u3453.php" crc="3962878002" ref="repair"/>
+    <file name="form-u4281.php" crc="301566364" ref="service"/>
+    <file name="form-u5427.php" crc="4184746064" ref="test"/>
+    <file name="form-u4508.php" crc="4060258109" ref="test"/>
+    <file name="form-u4770.php" crc="334648313" ref="consalt"/>
+    <file name="form-u5710.php" crc="468287860" ref="test-come"/>
+    <file name="form-u5662.php" crc="392736567" ref="test-come"/>
+    <file name="form-u6052.php" crc="4091821218" ref="test-sputnik"/>
+    <file name="form-u5982.php" crc="3781974302" ref="test-sputnik"/>
+    <file name="form-u6162.php" crc="508222667" ref="test-training"/>
+    <file name="form-u6114.php" crc="433959939" ref="test-training"/>
+  </folder>
+  <folder name="images">
+    <file name="шаблон-a-favicon.ico" crc="3777668235" ref="phone>index"/>
+    <file name="logo.png" crc="373078971" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="spares.png" crc="3801632595" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="service.png" crc="508248650" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="test.png" crc="249584998" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="training.png" crc="4194769880" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="сборка-01.jpg" crc="3802180657" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="spares-photo.jpg" crc="4152173874" ref="spares:repair">
+      <caption webpage="index" alt=""/>
+      <caption webpage="spares" alt=""/>
+    </file>
+    <file name="spares-big.png" crc="324959609" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="service-big.png" crc="4257820188" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="service-photo.jpg" crc="3953884441" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="test-photo.jpg" crc="358857526" ref="test:test-come:test-sputnik">
+      <caption webpage="index" alt=""/>
+      <caption webpage="test" alt=""/>
+    </file>
+    <file name="test-big.png" crc="3881558884" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="training-big.png" crc="428139288" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="test-photo2.jpg" crc="95100200" ref="test-training">
+      <caption webpage="index" alt=""/>
+      <caption webpage="test-training" alt=""/>
+    </file>
+    <file name="spares-photo-u1511-fr.jpg" crc="78554455" ref="index"/>
+    <file name="test-photo-u1632-fr.jpg" crc="288517204" ref="index"/>
+    <file name="test-photo-u1674-fr.jpg" crc="7788242" ref="index"/>
+    <file name="arrow-down.gif" crc="4084842637" ref="spares:repair:service:test:consalt:test-come:test-sputnik:test-training">
+      <caption webpage="spares" alt=""/>
+      <caption webpage="test-training" alt=""/>
+      <caption webpage="repair" alt=""/>
+      <caption webpage="test-sputnik" alt=""/>
+      <caption webpage="service" alt=""/>
+      <caption webpage="service" alt=""/>
+      <caption webpage="test" alt=""/>
+      <caption webpage="test-come" alt=""/>
+      <caption webpage="consalt" alt=""/>
+      <caption webpage="consalt" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="spares:repair:service:test:consalt:test-come:test-sputnik:test-training"/>
+    <file name="u2835.png" crc="3921462664" ref="spares"/>
+    <file name="u2835-r.png" crc="208356049" ref="spares"/>
+    <file name="u2835-m.png" crc="348581218" ref="spares"/>
+    <file name="u2835-fs.png" crc="4294489972" ref="spares"/>
+    <file name="u3466.png" crc="3921462664" ref="repair"/>
+    <file name="u3466-r.png" crc="208356049" ref="repair"/>
+    <file name="u3466-m.png" crc="348581218" ref="repair"/>
+    <file name="u3466-fs.png" crc="4294489972" ref="repair"/>
+    <file name="clip.gif" crc="4162421117" ref="repair:service:test:consalt:test-come:test-sputnik">
+      <caption webpage="test-sputnik" alt=""/>
+      <caption webpage="test-sputnik" alt=""/>
+      <caption webpage="test-sputnik" alt=""/>
+      <caption webpage="service" alt=""/>
+      <caption webpage="service" alt=""/>
+      <caption webpage="service" alt=""/>
+      <caption webpage="test" alt=""/>
+      <caption webpage="test" alt=""/>
+      <caption webpage="test" alt=""/>
+      <caption webpage="test-come" alt=""/>
+      <caption webpage="test-come" alt=""/>
+      <caption webpage="test-come" alt=""/>
+      <caption webpage="consalt" alt=""/>
+      <caption webpage="consalt" alt=""/>
+      <caption webpage="consalt" alt=""/>
+      <caption webpage="repair" alt=""/>
+      <caption webpage="repair" alt=""/>
+      <caption webpage="repair" alt=""/>
+    </file>
+    <file name="service-photo-01.jpg" crc="4013429442" ref="service:consalt">
+      <caption webpage="service" alt=""/>
+    </file>
+    <file name="u4345.png" crc="3921462664" ref="service"/>
+    <file name="u4345-r.png" crc="208356049" ref="service"/>
+    <file name="u4345-m.png" crc="348581218" ref="service"/>
+    <file name="u4345-fs.png" crc="4294489972" ref="service"/>
+    <file name="u4542.png" crc="3921462664" ref="test"/>
+    <file name="u4542-r.png" crc="208356049" ref="test"/>
+    <file name="u4542-m.png" crc="348581218" ref="test"/>
+    <file name="u4542-fs.png" crc="4294489972" ref="test"/>
+    <file name="u4804.png" crc="3921462664" ref="consalt"/>
+    <file name="u4804-r.png" crc="208356049" ref="consalt"/>
+    <file name="u4804-m.png" crc="348581218" ref="consalt"/>
+    <file name="u4804-fs.png" crc="4294489972" ref="consalt"/>
+    <file name="u5667.png" crc="3921462664" ref="test-come"/>
+    <file name="u5667-r.png" crc="208356049" ref="test-come"/>
+    <file name="u5667-m.png" crc="348581218" ref="test-come"/>
+    <file name="u5667-fs.png" crc="4294489972" ref="test-come"/>
+    <file name="u6026.png" crc="3921462664" ref="test-sputnik"/>
+    <file name="u6026-r.png" crc="208356049" ref="test-sputnik"/>
+    <file name="u6026-m.png" crc="348581218" ref="test-sputnik"/>
+    <file name="u6026-fs.png" crc="4294489972" ref="test-sputnik"/>
+    <file name="radiobuttonunchecked.png" crc="3976871150" ref="test-training">
+      <caption webpage="test-training" alt=""/>
+    </file>
+    <file name="radiobuttonuncheckedrollover.png" crc="4276313674" ref="test-training">
+      <caption webpage="test-training" alt=""/>
+    </file>
+    <file name="radiobuttonuncheckedmousedown.png" crc="54863585" ref="test-training">
+      <caption webpage="test-training" alt=""/>
+    </file>
+    <file name="radiobuttonchecked.png" crc="4193302265" ref="test-training">
+      <caption webpage="test-training" alt=""/>
+    </file>
+    <file name="radiobuttoncheckedrollover.png" crc="88928956" ref="test-training">
+      <caption webpage="test-training" alt=""/>
+    </file>
+    <file name="radiobuttoncheckedmousedown.png" crc="4280357799" ref="test-training">
+      <caption webpage="test-training" alt=""/>
+    </file>
+    <file name="u6119.png" crc="3921462664" ref="test-training"/>
+    <file name="u6119-r.png" crc="208356049" ref="test-training"/>
+    <file name="u6119-m.png" crc="348581218" ref="test-training"/>
+    <file name="u6119-fs.png" crc="4294489972" ref="test-training"/>
+  </folder>
+  <file name="index.html" crc="3831285197" seo="true" mt="1564114004478" redirect="true"/>
+  <file name="spares.html" crc="128613291" seo="true" mt="1564114004478" redirect="true"/>
+  <file name="repair.html" crc="95834947" seo="true" mt="1564114004478" redirect="true"/>
+  <file name="service.html" crc="4076297871" seo="true" mt="1564114004478" redirect="true"/>
+  <file name="test.html" crc="3957617903" seo="true" mt="1564114004478" redirect="true"/>
+  <file name="consalt.html" crc="3853637973" seo="true" mt="1564114004478" redirect="true"/>
+  <file name="test-come.html" crc="521892989" seo="true" mt="1564114004478" redirect="true"/>
+  <file name="test-sputnik.html" crc="491965539" seo="true" mt="1564114004478" redirect="true"/>
+  <file name="test-training.html" crc="387542289" seo="true" mt="1564114004478" redirect="true"/>
+  <file name="без-имени-10.html" crc="4088834979" seo="true" mt="1564114004478" redirect="true"/>
+</manifest>

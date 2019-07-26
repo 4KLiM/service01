@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://csortservice.ru/index.html</loc>
+    <lastmod>2019-07-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://csortservice.ru/phone/index.html"/>
+  </url>
+  <url>
+    <loc>http://csortservice.ru/test.html</loc>
+    <lastmod>2019-07-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://csortservice.ru/phone/test.html"/>
+  </url>
+  <url>
+    <loc>http://csortservice.ru/spares.html</loc>
+    <lastmod>2019-07-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://csortservice.ru/phone/spares.html"/>
+  </url>
+  <url>
+    <loc>http://csortservice.ru/repair.html</loc>
+    <lastmod>2019-07-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://csortservice.ru/phone/repair.html"/>
+  </url>
+  <url>
+    <loc>http://csortservice.ru/service.html</loc>
+    <lastmod>2019-07-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://csortservice.ru/phone/service.html"/>
+  </url>
+  <url>
+    <loc>http://csortservice.ru/test-sputnik.html</loc>
+    <lastmod>2019-07-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://csortservice.ru/phone/test-sputnik.html"/>
+  </url>
+  <url>
+    <loc>http://csortservice.ru/consalt.html</loc>
+    <lastmod>2019-07-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://csortservice.ru/phone/consalt.html"/>
+  </url>
+  <url>
+    <loc>http://csortservice.ru/test-come.html</loc>
+    <lastmod>2019-07-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://csortservice.ru/phone/test-come.html"/>
+  </url>
+  <url>
+    <loc>http://csortservice.ru/test-training.html</loc>
+    <lastmod>2019-07-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://csortservice.ru/phone/test-training.html"/>
+  </url>
+  <url>
+    <loc>http://csortservice.ru/%D0%B1%D0%B5%D0%B7-%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8-10.html</loc>
+    <lastmod>2019-07-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://csortservice.ru/assets/logo.jpg</loc>
+    <lastmod>2019-07-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>
